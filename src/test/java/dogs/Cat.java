@@ -7,6 +7,8 @@ public class Cat {
 	
 	// I like cats ......... 2222
 	
+	// I like birds too
+	
 
 	
 	
